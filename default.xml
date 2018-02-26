@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="bitbucket"
-           fetch="https://github.com/marslei" />
+           fetch="https://github.com/marslei"
+           review="https://github.com/marslei"
+		   />
 
   <default revision="master"
            remote="bitbucket"
