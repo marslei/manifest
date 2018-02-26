@@ -3,7 +3,7 @@
   <remote  name="bitbucket"
            fetch="https://github.com/marslei" />
 
-  <default revision="master"
+  <default revision="test"
            remote="bitbucket"
            sync-j="4" />
 
