@@ -3,11 +3,11 @@
   <remote  name="bitbucket"
            fetch="https://github.com/marslei" />
 
-  <default revision="refs/heads/master"
+  <default revision="master"
            remote="bitbucket"
            sync-j="4" />
 
-  <project name="qbao.git" remote="bitbucket" path="qbao"/>
   <project name="tools.git" remote="bitbucket" path="tools"/>
+  <project name="doc.git" remote="bitbucket" path="doc"/>
 
 </manifest>
