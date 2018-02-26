@@ -8,5 +8,6 @@
            sync-j="4" />
 
   <project name="qbao.git" remote="bitbucket" path="qbao"/>
+  <project name="tools.git" remote="bitbucket" path="tools"/>
 
 </manifest>
